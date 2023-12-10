@@ -1,2 +1,13 @@
-# Udemy-React-Project
-# Investment Calculator
+> # Udemy-React-Project
+>> Investment Calculator
+Tools used:
+
+* React
+
+* Vite
+
+* JS
+
+* HTML
+
+* CSS
